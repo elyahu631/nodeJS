@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "name": "SuperMart",
+    "city": "New York",
+    "items": [
+      {
+        "id": 1,
+        "name": "Apples",
+        "regular_price": 2.99,
+        "sale_price": 1.99
+      },
+      {
+        "id": 2,
+        "name": "Bananas",
+        "regular_price": 1.99,
+        "sale_price": 0.99
+      },
+      {
+        "id": 3,
+        "name": "Oranges",
+        "regular_price": 3.49,
+        "sale_price": 2.49
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Grocery Outlet",
+    "city": "Los Angeles",
+    "items": [
+      {
+        "id": 1,
+        "name": "Cereal",
+        "regular_price": 4.99,
+        "sale_price": 3.99
+      },
+      {
+        "id": 2,
+        "name": "Milk",
+        "regular_price": 2.99,
+        "sale_price": 1.99
+      },
+      {
+        "id": 3,
+        "name": "Bread",
+        "regular_price": 1.99,
+        "sale_price": 0.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fresh Market",
+    "city": "Chicago",
+    "items": [
+      {
+        "id": 1,
+        "name": "Salmon",
+        "regular_price": 14.99,
+        "sale_price": 12.99
+      },
+      {
+        "id": 2,
+        "name": "Chicken",
+        "regular_price": 6.99,
+        "sale_price": 5.99
+      },
+      {
+        "id": 3,
+        "name": "Beef",
+        "regular_price": 9.99,
+        "sale_price": 8.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Piggly Wiggly",
+    "city": "Atlanta",
+    "items": [
+      {
+        "id": 1,
+        "name": "Potatoes",
+        "regular_price": 3.99,
+        "sale_price": 2.99
+      },
+      {
+        "id": 2,
+        "name": "Carrots",
+        "regular_price": 2.49,
+        "sale_price": 1.49
+      },
+      {
+        "id": 3,
+        "name": "Onions",
+        "regular_price": 1.99,
+        "sale_price": 0.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Walmart",
+    "city": "Houston",
+    "items": [
+      {
+        "id": 1,
+        "name": "Toothpaste",
+        "regular_price": 3.49,
+        "sale_price": 2.49
+      },
+      {
+        "id": 2,
+        "name": "Shampoo",
+        "regular_price": 5.99,
+        "sale_price": 4.99
+      },
+      {
+        "id": 3,
+        "name": "Conditioner",
+        "regular_price": 5.99,
+        "sale_price": 2.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "New Store",
+    "city": "Some City",
+    "items": [
+      {
+        "id": 1,
+        "name": "New Product 1",
+        "regular_price": 1.99,
+        "sale_price": 0.99
+      },
+      {
+        "id": 2,
+        "name": "New Product 2",
+        "regular_price": 2.99,
+        "sale_price": 1.99
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "newone",
+    "city": "New York",
+    "items": [
+      {
+        "id": 1,
+        "name": "Apples",
+        "regular_price": 2.99,
+        "sale_price": 1.99
+      },
+      {
+        "id": 2,
+        "name": "Bananas",
+        "regular_price": 1.99,
+        "sale_price": 0.99
+      },
+      {
+        "id": 3,
+        "name": "Oranges",
+        "regular_price": 3.49,
+        "sale_price": 2.49
+      }
+    ]
+  }
+]
